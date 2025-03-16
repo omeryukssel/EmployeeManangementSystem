@@ -32,7 +32,6 @@ The Employee Management System is a desktop application developed with C# and SQ
 
 ## 📌 Features
 - 📋 Add, Update, and Delete Employees
-- 🔍 Search and List Employees
 - 📊 Integration with SQL Server
 - 🖥️ Windows Forms / WPF Interface
 - 📁 CRUD (Create, Read, Update, Delete) Operations
